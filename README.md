@@ -1,1 +1,1 @@
-# hextet-js
+# hexlet-js
